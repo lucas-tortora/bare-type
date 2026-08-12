@@ -22,4 +22,4 @@ Apache-2.0
 
 ## API
 
-See the [full API reference](https://docs.pears.com/reference/bare/modules/bare-type).
+See the [`bare-type` reference](https://docs.pears.com/reference/bare/modules/bare-type).
