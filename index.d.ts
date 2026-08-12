@@ -50,7 +50,8 @@ declare class Type {
 }
 
 /**
- * Return a `Type` wrapping `value`, exposing `is*()` predicates to test its runtime type across realms.
+ * Return a `Type` wrapping `value`, exposing `is*()` predicates to test its runtime type across
+ * realms.
  * @param value - The value to wrap and test.
  */
 declare function type(value: unknown): Type
