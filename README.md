@@ -16,10 +16,10 @@ if (type(123).isNumber()) {
 }
 ```
 
-## License
-
-Apache-2.0
-
 ## API
 
 See the [`bare-type` reference](https://docs.pears.com/reference/bare/modules/bare-type).
+
+## License
+
+Apache-2.0
